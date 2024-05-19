@@ -1,0 +1,21 @@
+
+plusminus.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+minusplusdark
+  rotate: false
+  xy: 1, 13
+  size: 10, 10
+  split: 2, 2, 2, 2
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+minuspluslight
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  split: 2, 2, 2, 2
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

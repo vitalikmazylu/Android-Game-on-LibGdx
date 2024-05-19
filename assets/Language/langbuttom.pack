@@ -1,0 +1,68 @@
+
+langbuttom.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+China
+  rotate: false
+  xy: 5, 69
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+England
+  rotate: false
+  xy: 94, 69
+  size: 82, 45
+  orig: 82, 45
+  offset: 10, 10
+  index: -1
+France
+  rotate: false
+  xy: 186, 69
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Germany
+  rotate: false
+  xy: 278, 69
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Poland
+  rotate: false
+  xy: 370, 69
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Russia
+  rotate: false
+  xy: 462, 69
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Spain
+  rotate: false
+  xy: 5, 22
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+Ucraina
+  rotate: false
+  xy: 94, 22
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+langtable
+  rotate: false
+  xy: 186, 1
+  size: 274, 66
+  orig: 274, 66
+  offset: 0, 0
+  index: -1

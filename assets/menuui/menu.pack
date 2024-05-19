@@ -1,0 +1,89 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rezumebutton
+  rotate: false
+  xy: 1, 40
+  size: 208, 58
+  orig: 208, 58
+  offset: 0, 0
+  index: -1
+mainmenu
+  rotate: false
+  xy: 211, 48
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+English
+  rotate: false
+  xy: 211, 1
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+France
+  rotate: false
+  xy: 295, 1
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Germany
+  rotate: false
+  xy: 379, 1
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Poland
+  rotate: false
+  xy: 413, 53
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Russian
+  rotate: false
+  xy: 497, 53
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Ucraine
+  rotate: false
+  xy: 581, 53
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Italy
+  rotate: false
+  xy: 463, 6
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+Spanish
+  rotate: false
+  xy: 544, 6
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+checkmusictable
+  rotate: false
+  xy: 1, 15
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+checkmusic
+  rotate: false
+  xy: 625, 31
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

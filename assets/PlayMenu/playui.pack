@@ -1,0 +1,47 @@
+
+playui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logotable
+  rotate: false
+  xy: 1, 124
+  size: 284, 67
+  orig: 284, 67
+  offset: 0, 0
+  index: -1
+WhiteTable
+  rotate: false
+  xy: 287, 1
+  size: 153, 190
+  orig: 153, 190
+  offset: 0, 0
+  index: -1
+roundbuttom
+  rotate: false
+  xy: 1, 52
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+newgamebutton
+  rotate: false
+  xy: 73, 98
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+exitbutton
+  rotate: false
+  xy: 73, 73
+  size: 85, 23
+  orig: 85, 23
+  offset: 0, 0
+  index: -1
+playchar
+  rotate: false
+  xy: 1, 17
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

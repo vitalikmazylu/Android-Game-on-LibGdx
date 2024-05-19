@@ -1,0 +1,19 @@
+
+textbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+yellowbutton
+  rotate: false
+  xy: 1, 1
+  size: 127, 25
+  orig: 127, 25
+  offset: 0, 0
+  index: -1
+greenbutton
+  rotate: false
+  xy: 130, 1
+  size: 120, 25
+  orig: 120, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+market.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+borderbuttom
+  rotate: false
+  xy: 1, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+borderbuttomdown
+  rotate: false
+  xy: 93, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+magazinebuttom
+  rotate: false
+  xy: 185, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+magazinebuttomdown
+  rotate: false
+  xy: 277, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+radiobuttons
+  rotate: false
+  xy: 369, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+radiobuttonsdown
+  rotate: false
+  xy: 461, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+smmbuttoms
+  rotate: false
+  xy: 553, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+smmbuttomsdown
+  rotate: false
+  xy: 645, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tvbuttom
+  rotate: false
+  xy: 737, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tvbuttomdown
+  rotate: false
+  xy: 829, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+improvetable.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+improveup
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  split: 10, 10, 20, 10
+  orig: 70, 70
+  offset: 10, 10
+  index: -1

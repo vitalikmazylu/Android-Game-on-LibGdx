@@ -1,0 +1,12 @@
+
+blue.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bluebutton
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 10, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+leveltable.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+leveltable
+  rotate: false
+  xy: 1, 1
+  size: 60, 10
+  split: 1, 2, 1, 1
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
